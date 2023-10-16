@@ -1,0 +1,14 @@
+{
+  "name": "cr2-jpg",
+  "version": "1.0.0",
+  "description": "Mass-convert CR2 format to JPG format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ThatPaple",
+  "license": "MIT",
+  "dependencies": {
+    "cr2-raw": "^1.1.0"
+  }
+}
