@@ -66,6 +66,11 @@ Let's get this project up and running!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+<!-- Optional Arguments -->
+## Additional arguments
+
+``` --rotate {angle} # Vertical images come out rotated by 90 degrees, you can adjust rotation with this parameter``` 
+
 
 <!-- ROADMAP -->
 ## Roadmap
